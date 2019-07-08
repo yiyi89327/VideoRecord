@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoCapture</string>
+    <string name="permission_rationale">请先在应用管理中打开所需权限</string>
+    <string name="permission_camera_rationale">We need you to confirm camera permission request</string>
+    <string name="permission_camera_reject">Go to settings to open permission of camera</string>
+    <string name="permission_record_video_rationale">We need you to confirm record video permission request</string>
+    <string name="permission_record_video_reject">Go to settings to open permission of record video</string>
+    <string name="permission_record_voice_rationale">We need you to confirm record voice permission request</string>
+    <string name="permission_record_voice_reject">Go to settings to open permission of record voice</string>
+</resources>
